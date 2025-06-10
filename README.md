@@ -6,10 +6,10 @@ This repository contains selected data science and machine learning projects I c
 
 ## Table of Contents
 
-1. [Age Verification with Computer Vision](#1-age-verification-with-computer-vision)
-2. [IMDB Sentiment Analysis](#2-imdb-sentiment-analysis)
-3. [Sweet Lift Taxi Demand Forecasting](#3-sweet-lift-taxi-demand-forecasting)
-4. [Insurance Benefit Prediction & Privacy](#4-insurance-benefit-prediction--privacy)
+1. [Age Verification with Computer Vision](./01_age_verification)
+2. [IMDB Sentiment Analysis](./02_imdb_sentiment_analysis)
+3. [Sweet Lift Taxi Demand Forecasting](./03_taxi_demand_forecasting)
+4. [Insurance Benefit Prediction & Privacy](./04_insurance_prediction_privacy)
 
 ---
 
