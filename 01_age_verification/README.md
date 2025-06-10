@@ -18,3 +18,9 @@
 
 **Conclusion**:
 The model performs well on unseen data and can be deployed as part of an automated checkout age verification system.
+
+
+### Future Improvements
+- Fix prediction accuracy near the legal threshold age (18) using a custom loss function to penalize misclassifications more in that range.
+- Improve generalization by adding more diverse training images using facial augmentation tools.
+- Speed up inference using a lighter CNN model (e.g., MobileNet) to deploy in real-time on edge devices.
