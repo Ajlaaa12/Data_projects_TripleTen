@@ -24,3 +24,8 @@
 
 **Conclusion**:
 ML models can significantly improve targeting, eligibility prediction, and protect sensitive customer data with zero impact on model performance.
+
+### Future Improvements
+- Fix limitations in benefit count prediction using tree-based regressors (e.g., XGBoost) for better nonlinearity capture.
+- Improve similarity detection with clustering algorithms like DBSCAN or HDBSCAN.
+- Enhance security by testing other obfuscation methods like differential privacy or federated learning.
