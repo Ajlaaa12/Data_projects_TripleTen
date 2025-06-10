@@ -18,3 +18,8 @@
 
 **Conclusion**:
 The model met and exceeded the F1 target of 0.85. NLTK + TF-IDF + Logistic Regression is the best choice for speed and accuracy.
+
+### Future Improvements
+- Fix model limitations with sarcasm and complex sentiment using transformer-based models (e.g., BERT) to achieve deeper contextual understanding.
+- Improve classification robustness using ensemble methods (e.g., blending Logistic Regression with LGBM).
+- Enhance UX by deploying a Streamlit app to let users input custom reviews and get instant predictions.****
